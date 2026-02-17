@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Omar Alaa
 
 I'm a passionate developer specializing in **C++, Python, and Web Development**, with a keen interest in **Artificial Intelligence**. Currently pursuing an **AI minor at MIU**, I enjoy building projects that combine coding, algorithms, and smart solutions.  
 
