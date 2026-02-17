@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**omarinho348/omarinho348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer specializing in **C++, Python, and Web Development**, with a keen interest in **Artificial Intelligence**. Currently pursuing an **AI minor at MIU**, I enjoy building projects that combine coding, algorithms, and smart solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+
+- **Languages:** C++, Python, Java, SQL  
+- **Web:** HTML, CSS, JavaScript, PHP
+- **AI & Machine Learning:** Pandas, NumPy  
+- **Other Tools:** Git, GitHub
+---
+
+## 📫 How to Reach Me
+
+- **Email:** omar2301277@miuegypt.edu.eg
+- **LinkedIn:** https://www.linkedin.com/in/omar-alaa-attia/ 
+- **GitHub:** https://github.com/omarinho348 
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI/ML techniques  
+- Full-stack web development  
+- Open-source collaboration best practices  
